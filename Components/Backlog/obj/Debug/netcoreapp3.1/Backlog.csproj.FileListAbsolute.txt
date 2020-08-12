@@ -1,0 +1,7 @@
+c:\Users\user01\workspace\pal-tracker-distributed\Components\Backlog\bin\Debug\netcoreapp3.1\Backlog.deps.json
+c:\Users\user01\workspace\pal-tracker-distributed\Components\Backlog\bin\Debug\netcoreapp3.1\Backlog.dll
+c:\Users\user01\workspace\pal-tracker-distributed\Components\Backlog\bin\Debug\netcoreapp3.1\Backlog.pdb
+c:\Users\user01\workspace\pal-tracker-distributed\Components\Backlog\obj\Debug\netcoreapp3.1\Backlog.AssemblyInfoInputs.cache
+c:\Users\user01\workspace\pal-tracker-distributed\Components\Backlog\obj\Debug\netcoreapp3.1\Backlog.AssemblyInfo.cs
+c:\Users\user01\workspace\pal-tracker-distributed\Components\Backlog\obj\Debug\netcoreapp3.1\Backlog.dll
+c:\Users\user01\workspace\pal-tracker-distributed\Components\Backlog\obj\Debug\netcoreapp3.1\Backlog.pdb

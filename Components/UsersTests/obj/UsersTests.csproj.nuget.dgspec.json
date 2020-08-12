@@ -1,0 +1,216 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\user01\\workspace\\pal-tracker-distributed\\Components\\UsersTests\\UsersTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\user01\\workspace\\pal-tracker-distributed\\Components\\TestSupport\\TestSupport.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user01\\workspace\\pal-tracker-distributed\\Components\\TestSupport\\TestSupport.csproj",
+        "projectName": "TestSupport",
+        "projectPath": "C:\\Users\\user01\\workspace\\pal-tracker-distributed\\Components\\TestSupport\\TestSupport.csproj",
+        "packagesPath": "C:\\Users\\user01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user01\\workspace\\pal-tracker-distributed\\Components\\TestSupport\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user01\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.3.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.13.1, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[0.62.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user01\\workspace\\pal-tracker-distributed\\Components\\UsersTests\\UsersTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user01\\workspace\\pal-tracker-distributed\\Components\\UsersTests\\UsersTests.csproj",
+        "projectName": "UsersTests",
+        "projectPath": "C:\\Users\\user01\\workspace\\pal-tracker-distributed\\Components\\UsersTests\\UsersTests.csproj",
+        "packagesPath": "C:\\Users\\user01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user01\\workspace\\pal-tracker-distributed\\Components\\UsersTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user01\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\user01\\workspace\\pal-tracker-distributed\\Components\\TestSupport\\TestSupport.csproj": {
+                "projectPath": "C:\\Users\\user01\\workspace\\pal-tracker-distributed\\Components\\TestSupport\\TestSupport.csproj"
+              },
+              "C:\\Users\\user01\\workspace\\pal-tracker-distributed\\Components\\Users\\Users.csproj": {
+                "projectPath": "C:\\Users\\user01\\workspace\\pal-tracker-distributed\\Components\\Users\\Users.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user01\\workspace\\pal-tracker-distributed\\Components\\Users\\Users.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user01\\workspace\\pal-tracker-distributed\\Components\\Users\\Users.csproj",
+        "projectName": "Users",
+        "projectPath": "C:\\Users\\user01\\workspace\\pal-tracker-distributed\\Components\\Users\\Users.csproj",
+        "packagesPath": "C:\\Users\\user01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user01\\workspace\\pal-tracker-distributed\\Components\\Users\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user01\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Steeltoe.CloudFoundry.Connector.EFCore": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

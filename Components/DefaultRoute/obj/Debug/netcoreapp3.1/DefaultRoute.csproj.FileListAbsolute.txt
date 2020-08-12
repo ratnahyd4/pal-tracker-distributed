@@ -1,0 +1,7 @@
+c:\Users\user01\workspace\pal-tracker-distributed\Components\DefaultRoute\bin\Debug\netcoreapp3.1\DefaultRoute.deps.json
+c:\Users\user01\workspace\pal-tracker-distributed\Components\DefaultRoute\bin\Debug\netcoreapp3.1\DefaultRoute.dll
+c:\Users\user01\workspace\pal-tracker-distributed\Components\DefaultRoute\bin\Debug\netcoreapp3.1\DefaultRoute.pdb
+c:\Users\user01\workspace\pal-tracker-distributed\Components\DefaultRoute\obj\Debug\netcoreapp3.1\DefaultRoute.AssemblyInfoInputs.cache
+c:\Users\user01\workspace\pal-tracker-distributed\Components\DefaultRoute\obj\Debug\netcoreapp3.1\DefaultRoute.AssemblyInfo.cs
+c:\Users\user01\workspace\pal-tracker-distributed\Components\DefaultRoute\obj\Debug\netcoreapp3.1\DefaultRoute.dll
+c:\Users\user01\workspace\pal-tracker-distributed\Components\DefaultRoute\obj\Debug\netcoreapp3.1\DefaultRoute.pdb

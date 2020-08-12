@@ -1,0 +1,7 @@
+c:\Users\user01\workspace\pal-tracker-distributed\Components\Timesheets\bin\Debug\netcoreapp3.1\Timesheets.deps.json
+c:\Users\user01\workspace\pal-tracker-distributed\Components\Timesheets\bin\Debug\netcoreapp3.1\Timesheets.dll
+c:\Users\user01\workspace\pal-tracker-distributed\Components\Timesheets\bin\Debug\netcoreapp3.1\Timesheets.pdb
+c:\Users\user01\workspace\pal-tracker-distributed\Components\Timesheets\obj\Debug\netcoreapp3.1\Timesheets.AssemblyInfoInputs.cache
+c:\Users\user01\workspace\pal-tracker-distributed\Components\Timesheets\obj\Debug\netcoreapp3.1\Timesheets.AssemblyInfo.cs
+c:\Users\user01\workspace\pal-tracker-distributed\Components\Timesheets\obj\Debug\netcoreapp3.1\Timesheets.dll
+c:\Users\user01\workspace\pal-tracker-distributed\Components\Timesheets\obj\Debug\netcoreapp3.1\Timesheets.pdb

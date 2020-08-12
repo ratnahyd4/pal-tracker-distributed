@@ -1,0 +1,8 @@
+c:\Users\user01\workspace\pal-tracker-distributed\Components\Projects\bin\Debug\netcoreapp3.1\Projects.deps.json
+c:\Users\user01\workspace\pal-tracker-distributed\Components\Projects\bin\Debug\netcoreapp3.1\Projects.dll
+c:\Users\user01\workspace\pal-tracker-distributed\Components\Projects\bin\Debug\netcoreapp3.1\Projects.pdb
+c:\Users\user01\workspace\pal-tracker-distributed\Components\Projects\obj\Debug\netcoreapp3.1\Projects.AssemblyInfoInputs.cache
+c:\Users\user01\workspace\pal-tracker-distributed\Components\Projects\obj\Debug\netcoreapp3.1\Projects.AssemblyInfo.cs
+c:\Users\user01\workspace\pal-tracker-distributed\Components\Projects\obj\Debug\netcoreapp3.1\Projects.dll
+c:\Users\user01\workspace\pal-tracker-distributed\Components\Projects\obj\Debug\netcoreapp3.1\Projects.pdb
+C:\Users\user01\workspace\pal-tracker-distributed\Components\Projects\obj\Debug\netcoreapp3.1\Projects.csprojAssemblyReference.cache
