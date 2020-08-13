@@ -5,3 +5,4 @@ c:\Users\user01\workspace\pal-tracker-distributed\Components\Backlog\obj\Debug\n
 c:\Users\user01\workspace\pal-tracker-distributed\Components\Backlog\obj\Debug\netcoreapp3.1\Backlog.AssemblyInfo.cs
 c:\Users\user01\workspace\pal-tracker-distributed\Components\Backlog\obj\Debug\netcoreapp3.1\Backlog.dll
 c:\Users\user01\workspace\pal-tracker-distributed\Components\Backlog\obj\Debug\netcoreapp3.1\Backlog.pdb
+C:\Users\user01\workspace\pal-tracker-distributed\Components\Backlog\obj\Debug\netcoreapp3.1\Backlog.csprojAssemblyReference.cache

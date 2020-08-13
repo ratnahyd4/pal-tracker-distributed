@@ -141,3 +141,9 @@ c:\Users\user01\workspace\pal-tracker-distributed\Components\TimesheetsTests\obj
 c:\Users\user01\workspace\pal-tracker-distributed\Components\TimesheetsTests\obj\Debug\netcoreapp3.1\TimesheetsTests.csproj.CopyComplete
 c:\Users\user01\workspace\pal-tracker-distributed\Components\TimesheetsTests\obj\Debug\netcoreapp3.1\TimesheetsTests.dll
 c:\Users\user01\workspace\pal-tracker-distributed\Components\TimesheetsTests\obj\Debug\netcoreapp3.1\TimesheetsTests.pdb
+C:\Users\user01\workspace\pal-tracker-distributed\Components\TimesheetsTests\bin\Debug\netcoreapp3.1\HdrHistogram.dll
+C:\Users\user01\workspace\pal-tracker-distributed\Components\TimesheetsTests\bin\Debug\netcoreapp3.1\Steeltoe.CircuitBreaker.Hystrix.MetricsEventsCore.dll
+C:\Users\user01\workspace\pal-tracker-distributed\Components\TimesheetsTests\bin\Debug\netcoreapp3.1\Steeltoe.CircuitBreaker.HystrixBase.dll
+C:\Users\user01\workspace\pal-tracker-distributed\Components\TimesheetsTests\bin\Debug\netcoreapp3.1\Steeltoe.CircuitBreaker.HystrixCore.dll
+C:\Users\user01\workspace\pal-tracker-distributed\Components\TimesheetsTests\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\user01\workspace\pal-tracker-distributed\Components\TimesheetsTests\bin\Debug\netcoreapp3.1\System.Reactive.Observable.Aliases.dll

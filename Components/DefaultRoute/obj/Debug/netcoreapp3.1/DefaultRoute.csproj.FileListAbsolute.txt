@@ -5,3 +5,4 @@ c:\Users\user01\workspace\pal-tracker-distributed\Components\DefaultRoute\obj\De
 c:\Users\user01\workspace\pal-tracker-distributed\Components\DefaultRoute\obj\Debug\netcoreapp3.1\DefaultRoute.AssemblyInfo.cs
 c:\Users\user01\workspace\pal-tracker-distributed\Components\DefaultRoute\obj\Debug\netcoreapp3.1\DefaultRoute.dll
 c:\Users\user01\workspace\pal-tracker-distributed\Components\DefaultRoute\obj\Debug\netcoreapp3.1\DefaultRoute.pdb
+C:\Users\user01\workspace\pal-tracker-distributed\Components\DefaultRoute\obj\Debug\netcoreapp3.1\DefaultRoute.csprojAssemblyReference.cache

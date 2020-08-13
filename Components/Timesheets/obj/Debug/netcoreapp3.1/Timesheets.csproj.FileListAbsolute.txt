@@ -5,3 +5,4 @@ c:\Users\user01\workspace\pal-tracker-distributed\Components\Timesheets\obj\Debu
 c:\Users\user01\workspace\pal-tracker-distributed\Components\Timesheets\obj\Debug\netcoreapp3.1\Timesheets.AssemblyInfo.cs
 c:\Users\user01\workspace\pal-tracker-distributed\Components\Timesheets\obj\Debug\netcoreapp3.1\Timesheets.dll
 c:\Users\user01\workspace\pal-tracker-distributed\Components\Timesheets\obj\Debug\netcoreapp3.1\Timesheets.pdb
+C:\Users\user01\workspace\pal-tracker-distributed\Components\Timesheets\obj\Debug\netcoreapp3.1\Timesheets.csprojAssemblyReference.cache
