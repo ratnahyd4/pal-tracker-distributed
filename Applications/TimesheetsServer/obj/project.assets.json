@@ -1398,6 +1398,49 @@
           "Microsoft.AspNetCore.App"
         ]
       },
+      "Steeltoe.Extensions.Configuration.ConfigServerBase/2.4.2": {
+        "type": "package",
+        "dependencies": {
+          "Steeltoe.Common.Http": "2.4.2",
+          "Steeltoe.Extensions.Configuration.CloudFoundryBase": "2.4.2",
+          "Steeltoe.Extensions.Configuration.PlaceholderBase": "2.4.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/Steeltoe.Extensions.Configuration.ConfigServerBase.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Steeltoe.Extensions.Configuration.ConfigServerBase.dll": {}
+        }
+      },
+      "Steeltoe.Extensions.Configuration.ConfigServerCore/2.4.2": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Hosting": "3.0.0",
+          "Microsoft.Extensions.Options.ConfigurationExtensions": "3.0.0",
+          "Steeltoe.Extensions.Configuration.ConfigServerBase": "2.4.2"
+        },
+        "compile": {
+          "lib/netcoreapp3.0/Steeltoe.Extensions.Configuration.ConfigServerCore.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/Steeltoe.Extensions.Configuration.ConfigServerCore.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "Steeltoe.Extensions.Configuration.PlaceholderBase/2.4.2": {
+        "type": "package",
+        "dependencies": {
+          "Steeltoe.Common": "2.4.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/Steeltoe.Extensions.Configuration.PlaceholderBase.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Steeltoe.Extensions.Configuration.PlaceholderBase.dll": {}
+        }
+      },
       "Steeltoe.Extensions.Logging.DynamicLogger/2.4.2": {
         "type": "package",
         "dependencies": {
@@ -4693,6 +4736,50 @@
         "lib/netstandard2.0/Steeltoe.Extensions.Configuration.CloudFoundryCore.xml",
         "steeltoe.extensions.configuration.cloudfoundrycore.2.4.2.nupkg.sha512",
         "steeltoe.extensions.configuration.cloudfoundrycore.nuspec"
+      ]
+    },
+    "Steeltoe.Extensions.Configuration.ConfigServerBase/2.4.2": {
+      "sha512": "9YyECBbASvrRGfrn+Bp9vysWZS32+cCdnNp8S01an0SGVpMUITzFtA+e2BjaHm2PPNm4kwxnuNBM8QFritMsBg==",
+      "type": "package",
+      "path": "steeltoe.extensions.configuration.configserverbase/2.4.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "lib/netstandard2.0/Steeltoe.Extensions.Configuration.ConfigServerBase.dll",
+        "lib/netstandard2.0/Steeltoe.Extensions.Configuration.ConfigServerBase.xml",
+        "steeltoe.extensions.configuration.configserverbase.2.4.2.nupkg.sha512",
+        "steeltoe.extensions.configuration.configserverbase.nuspec"
+      ]
+    },
+    "Steeltoe.Extensions.Configuration.ConfigServerCore/2.4.2": {
+      "sha512": "xcyDYK968e1cC1XgVd2luKBbUdF3wjV5vbIuSUhteZaxRm6Y2pXFIPW0OgTYwNub8kpWWuXWZyq7lDuAze/10g==",
+      "type": "package",
+      "path": "steeltoe.extensions.configuration.configservercore/2.4.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "lib/netcoreapp3.0/Steeltoe.Extensions.Configuration.ConfigServerCore.dll",
+        "lib/netcoreapp3.0/Steeltoe.Extensions.Configuration.ConfigServerCore.xml",
+        "lib/netstandard2.0/Steeltoe.Extensions.Configuration.ConfigServerCore.dll",
+        "lib/netstandard2.0/Steeltoe.Extensions.Configuration.ConfigServerCore.xml",
+        "steeltoe.extensions.configuration.configservercore.2.4.2.nupkg.sha512",
+        "steeltoe.extensions.configuration.configservercore.nuspec"
+      ]
+    },
+    "Steeltoe.Extensions.Configuration.PlaceholderBase/2.4.2": {
+      "sha512": "RiinY4SZlq6iwl3uwI9k8lXczvwLLBKCBqW24loIjpJhSZhC1X8xvV86tlki/SaVFIkTWMbzuEnoO8aPUmW2Lw==",
+      "type": "package",
+      "path": "steeltoe.extensions.configuration.placeholderbase/2.4.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "lib/netstandard2.0/Steeltoe.Extensions.Configuration.PlaceholderBase.dll",
+        "lib/netstandard2.0/Steeltoe.Extensions.Configuration.PlaceholderBase.xml",
+        "steeltoe.extensions.configuration.placeholderbase.2.4.2.nupkg.sha512",
+        "steeltoe.extensions.configuration.placeholderbase.nuspec"
       ]
     },
     "Steeltoe.Extensions.Logging.DynamicLogger/2.4.2": {
@@ -8872,6 +8959,7 @@
       "Steeltoe.Common.Hosting >= 2.4.2",
       "Steeltoe.Discovery.ClientCore >= 2.4.2",
       "Steeltoe.Extensions.Configuration.CloudFoundryCore >= 2.4.2",
+      "Steeltoe.Extensions.Configuration.ConfigServerCore >= 2.4.2",
       "Steeltoe.Management.CloudFoundryCore >= 2.4.2",
       "Steeltoe.Security.Authentication.CloudFoundryCore >= 2.3.0",
       "Timesheets >= 1.0.0"
@@ -8948,6 +9036,10 @@
             "version": "[2.4.2, )"
           },
           "Steeltoe.Extensions.Configuration.CloudFoundryCore": {
+            "target": "Package",
+            "version": "[2.4.2, )"
+          },
+          "Steeltoe.Extensions.Configuration.ConfigServerCore": {
             "target": "Package",
             "version": "[2.4.2, )"
           },

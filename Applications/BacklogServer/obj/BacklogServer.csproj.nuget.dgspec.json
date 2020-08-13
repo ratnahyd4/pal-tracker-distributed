@@ -74,6 +74,10 @@
               "target": "Package",
               "version": "[2.4.2, )"
             },
+            "Steeltoe.Extensions.Configuration.ConfigServerCore": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
             "Steeltoe.Management.CloudFoundryCore": {
               "target": "Package",
               "version": "[2.4.2, )"
