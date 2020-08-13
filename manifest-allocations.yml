@@ -7,7 +7,8 @@ applications:
     routes:
       - route: allocations-pal-rs.cfapps.io
     path: Applications/AllocationsServer/bin/Release/netcoreapp3.1/publish
-    env:
-      REGISTRATION_SERVER_ENDPOINT: https://registration-pal-rs.cfapps.io
+    # env:
+    #   REGISTRATION_SERVER_ENDPOINT: https://registration-pal-rs.cfapps.io
     services:
       - tracker-allocations-database
+      - tracker-service-registry

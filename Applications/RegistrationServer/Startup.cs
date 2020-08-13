@@ -9,6 +9,8 @@ using Projects.Data;
 using Steeltoe.CloudFoundry.Connector.MySql.EFCore;
 using Steeltoe.Management.CloudFoundry;
 using Users.Data;
+using Steeltoe.Discovery.Client;
+
 
 namespace RegistrationServer
 {
@@ -37,6 +39,7 @@ namespace RegistrationServer
             services.AddScoped<IProjectDataGateway, ProjectDataGateway>();
             services.AddDbContext<ProjectContext>(options => options.UseMySql(Configuration));
             
+services.AddDiscoveryClient(Configuration);
             services.AddScoped<IRegistrationService, RegistrationService>();
         }
 
@@ -50,6 +53,7 @@ namespace RegistrationServer
 
             app.UseCloudFoundryActuators();
 
+app.UseDiscoveryClient();
             app.UseRouting();
 
             app.UseAuthorization();

@@ -60,6 +60,18 @@
               "target": "Package",
               "version": "[2.4.2, )"
             },
+            "Steeltoe.Common.Hosting": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "Steeltoe.Discovery.ClientCore": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "Steeltoe.Extensions.Configuration.CloudFoundryCore": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
             "Steeltoe.Management.CloudFoundryCore": {
               "target": "Package",
               "version": "[2.4.2, )"
