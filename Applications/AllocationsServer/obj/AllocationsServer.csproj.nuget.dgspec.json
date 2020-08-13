@@ -50,6 +50,14 @@
               "target": "Package",
               "version": "[3.1.1, )"
             },
+            "Steeltoe.CircuitBreaker.Hystrix.MetricsEventsCore": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "Steeltoe.CircuitBreaker.HystrixCore": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
             "Steeltoe.CloudFoundry.Connector.EFCore": {
               "target": "Package",
               "version": "[2.4.2, )"
@@ -131,6 +139,14 @@
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
               "version": "[3.1.1, )"
+            },
+            "Steeltoe.CircuitBreaker.Hystrix.MetricsEventsCore": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "Steeltoe.CircuitBreaker.HystrixCore": {
+              "target": "Package",
+              "version": "[2.4.2, )"
             },
             "Steeltoe.CloudFoundry.Connector.EFCore": {
               "target": "Package",
